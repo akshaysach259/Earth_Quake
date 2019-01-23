@@ -1,6 +1,6 @@
 # Earth_Quake
 
-Languages - #Flutter #Dart 
+Language - #Flutter #Dart 
 Platform - #Android #IOS
 
 Tasks - Shows the list of earthquake happening on earth.
